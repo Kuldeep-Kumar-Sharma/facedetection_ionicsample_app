@@ -1,0 +1,4 @@
+#Tue Jul 17 03:07:24 IST 2018
+base.0=/Users/a1271241/Documents/CustomPlugins/FaceDetectionApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+file.0=/Users/a1271241/Documents/CustomPlugins/FaceDetectionApp/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex
