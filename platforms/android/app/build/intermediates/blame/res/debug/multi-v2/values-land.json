@@ -1,20 +1,27 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/a1271241/Documents/CustomPlugins/FaceDetectionApp/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "D:\\facedetection_ionicsample_app\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "/Users/a1271241/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/64f410ec423680cd69d38d008c7323af/res/values-land/values-land.xml",
+                    "source": "C:\\Users\\kulde\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.0.4.aar\\776472333ef9e17c08dff468d5cddb70\\res\\values-land\\values.xml",
                     "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,125,189,260",
-                        "endColumns": "69,63,70,67",
-                        "endOffsets": "120,184,255,323"
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "0,0,0,0,0,0",
+                        "startOffsets": "183,264,344,414,483,578",
+                        "endColumns": "80,79,69,68,94,90",
+                        "endOffsets": "263,343,413,482,577,668"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "328,413,497,571,644,743",
+                        "endColumns": "84,83,73,72,98,94",
+                        "endOffsets": "408,492,566,639,738,833"
                     }
                 },
                 {
-                    "source": "/Users/a1271241/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/be28d5576d45eccc1ef7214d6cf71704/res/values-land/values-land.xml",
+                    "source": "C:\\Users\\kulde\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\9cdfad84a24420e673784f764683a781\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
@@ -31,7 +38,49 @@
                     }
                 },
                 {
-                    "source": "/Users/a1271241/.gradle/caches/transforms-1/files-1.1/play-services-cast-framework-11.0.4.aar/eb524d601e3f7c84a5df76f0d44a07f9/res/values-land/values.xml",
+                    "source": "C:\\Users\\kulde\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91a97f2565b23346a76536996900a17c\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Users\\a1271241\\Documents\\CustomPlugins\\FaceDetectionApp\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "D:\\Users\\a1271241\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\64f410ec423680cd69d38d008c7323af\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "D:\\Users\\a1271241\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\be28d5576d45eccc1ef7214d6cf71704\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,130,208",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "125,203,278"
+                    },
+                    "to": {
+                        "startLines": "12,13,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "838,913,991",
+                        "endColumns": "74,77,74",
+                        "endOffsets": "908,986,1061"
+                    }
+                },
+                {
+                    "source": "D:\\Users\\a1271241\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-cast-framework-11.0.4.aar\\eb524d601e3f7c84a5df76f0d44a07f9\\res\\values-land\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9",
                         "startColumns": "0,0,0,0,0,0",

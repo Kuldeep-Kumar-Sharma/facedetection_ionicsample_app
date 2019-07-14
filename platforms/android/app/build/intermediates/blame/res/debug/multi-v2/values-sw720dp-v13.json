@@ -1,10 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/a1271241/Documents/CustomPlugins/FaceDetectionApp/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw720dp-v13/values-sw720dp-v13.xml",
+            "outputFile": "D:\\Users\\a1271241\\Documents\\CustomPlugins\\FaceDetectionApp\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/a1271241/.gradle/caches/transforms-1/files-1.1/mediarouter-v7-25.2.0.aar/be28d5576d45eccc1ef7214d6cf71704/res/values-sw720dp-v13/values-sw720dp-v13.xml",
+                    "source": "D:\\Users\\a1271241\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\be28d5576d45eccc1ef7214d6cf71704\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,124",
+                        "endColumns": "68,68",
+                        "endOffsets": "119,188"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\facedetection_ionicsample_app\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kulde\\.gradle\\caches\\transforms-1\\files-1.1\\mediarouter-v7-25.2.0.aar\\9cdfad84a24420e673784f764683a781\\res\\values-sw720dp-v13\\values-sw720dp-v13.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

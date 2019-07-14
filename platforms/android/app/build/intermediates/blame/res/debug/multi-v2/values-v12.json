@@ -1,10 +1,26 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/a1271241/Documents/CustomPlugins/FaceDetectionApp/platforms/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml",
+            "outputFile": "D:\\Users\\a1271241\\Documents\\CustomPlugins\\FaceDetectionApp\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
             "map": [
                 {
-                    "source": "/Users/a1271241/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/64f410ec423680cd69d38d008c7323af/res/values-v12/values-v12.xml",
+                    "source": "D:\\Users\\a1271241\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\64f410ec423680cd69d38d008c7323af\\res\\values-v12\\values-v12.xml",
+                    "from": {
+                        "startLines": "2,5,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,279,479,598",
+                        "endLines": "4,7,8,9",
+                        "endColumns": "12,12,118,94",
+                        "endOffsets": "274,474,593,688"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\facedetection_ionicsample_app\\platforms\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\kulde\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\91a97f2565b23346a76536996900a17c\\res\\values-v12\\values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",
